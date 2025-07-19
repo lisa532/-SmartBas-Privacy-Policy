@@ -48,8 +48,18 @@ SmartBas is not intended for children under the age of 13. We do not knowingly c
 
 8. Updates to this Policy
 We may update this Privacy Policy from time to time. You’ll be notified through the app or by email of any significant changes.
+## Delete Your SmartBas Account
 
-9. Contact Us
+To delete your SmartBas account and associated data (including invoices and bank information), please email us at:
+
+📧 **smartbasapp@gmail.com**
+
+Use the subject line: **Delete My Account**
+
+We will process your request and permanently delete all data within **7 business days**.
+
+
+10. Contact Us
 If you have any questions or requests about this policy, email:
 
 📧 lisa.weaver5770@gmail.com
